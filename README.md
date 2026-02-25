@@ -1,14 +1,38 @@
-# Run and deploy your AI Studio app
+# 📊 Norte Sul Sistema — POS & Inventory Management
 
-This contains everything you need to run your app locally.
+> Cross-platform point-of-sale and inventory management system for IT retail. Runs on Web, Android (Capacitor), and Desktop (Electron).
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- **Point of Sale (POS)** — fast checkout with product search and barcode support
+- **Inventory Management** — track stock, add products in batch, manage categories
+- **Order Management** — view, edit, and track customer orders
+- **Sales & Expenses Dashboard** — real-time financial overview with charts
+- **User Management** — role-based access (admin, cashier, technician)
+- **Support Tickets** — customer service request management
+- **Course Access Management** — manage student enrollments
+- **Camera Integration** — security camera monitoring
+- **Multi-platform** — Web, Android (Capacitor), Desktop (Electron)
 
+## 🏗️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+| Component | Technology |
+|---|---|
+| Frontend | React 18, TypeScript, TailwindCSS |
+| Mobile | Capacitor (Android) |
+| Desktop | Electron |
+| State | React Context API |
+| API | REST (connects to Norte Sul Site backend) |
+| AI | Gemini API integration |
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev        # Web
+npx cap run android  # Android
+```
+
+## 📄 License
+
+Proprietary — Norte Sul Informática.
