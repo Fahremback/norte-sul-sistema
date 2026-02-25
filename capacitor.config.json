@@ -1,0 +1,9 @@
+{
+  "appId": "com.nortesulinformatica.gestao",
+  "appName": "Norte Sul Informática",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}

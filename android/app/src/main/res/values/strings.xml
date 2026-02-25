@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Norte Sul Informática</string>
+    <string name="title_activity_main">Norte Sul Informática</string>
+    <string name="package_name">com.nortesulinformatica.gestao</string>
+    <string name="custom_url_scheme">com.nortesulinformatica.gestao</string>
+</resources>

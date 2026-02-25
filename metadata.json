@@ -1,0 +1,8 @@
+{
+  "name": "Norte Sul Informática - Gestão Integrada",
+  "description": "Sistema de gestão para Norte Sul Informática, incluindo serviços pendentes, catálogo de produtos, vendas, despesas e estatísticas. Otimizado para desktop e mobile.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}

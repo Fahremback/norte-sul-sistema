@@ -1,0 +1,32 @@
+
+{
+  "name": "norte-sul-informática---gestão-integrada",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^7.3.0",
+    "@google/genai": "^1.4.0",
+    "@heroicons/react": "^2.1.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.22.3",
+    "recharts": "^2.15.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "autoprefixer": "^10.4.19",
+    "electron": "^36.4.0",
+    "electron-builder": "^26.0.12",
+    "electron-packager": "^17.1.2",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}
